@@ -17,5 +17,6 @@ Include "camilla" into your project, and that's it.
 ## Todo
 
 - Add possibility to pin on an exact version;
+- Introduce auto-testing of this formula using travis
 
 [Camilla]: https://www.camillaproxy.com/
