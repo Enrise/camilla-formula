@@ -3,7 +3,6 @@ extend:
   camilla:
     service.running:
       - enable: True
-      - reload: True
       - watch:
         - pkg: camilla
       - require:
