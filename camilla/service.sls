@@ -1,4 +1,4 @@
-# Ensure that Logstash is running
+# Ensure that Camilla Proxy is running
 extend:
   camilla:
     service.running:
