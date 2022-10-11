@@ -1,3 +1,9 @@
+# Archived and unmaintained
+
+This is an old repository that is no longer used or maintained. We advice to no longer use this repository.
+
+## Original README can be found below:
+
 # camilla-formula
 
 This formula will install the latest stable version of [Camilla - the always on web debugging proxy][Camilla].
